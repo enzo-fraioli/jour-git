@@ -1,0 +1,15 @@
+td{
+    border: solid 3px rgb(201, 127, 67);
+}
+table{
+    position: absolute;
+    right: 16%;
+    background-color: rgba(255, 235, 205, 0.452);
+}
+h1{
+    text-align: center;
+}
+body{
+    background-image: url(3286.jpg);
+    background-size: 100%;
+}
